@@ -1,1 +1,2 @@
 # MCDesktop
+这是一个Minecraft启动器,它的设计类似于Windows的桌面，目前还有很多功能没有写，使用插件
