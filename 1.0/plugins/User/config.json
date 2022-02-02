@@ -1,0 +1,5 @@
+{
+    "main":"User",
+    "type":"back",
+    "self_starting":1
+}
